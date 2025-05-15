@@ -2,7 +2,7 @@
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
 
 ## Project Link
-https://www.kaggle.com/code/muskanchinchkhede/airbnb-project
+[Airbnb Project on Kaggle](https://www.kaggle.com/code/muskanchinchkhede/airbnb-project)
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
